@@ -3,8 +3,8 @@
 # Ki kell választani mely láda mond igazat
 Az alábbi feliratok vannak feltüntetve  ládák felet
 <br>
-arany -> én rejtem a kincset
+arany színű láda -> én rejtem a kincset
 <br> 
-ezüst -> nem én rejtem a kincset
+ezüst színű láda -> nem én rejtem a kincset
 <br>
-bronz -> az arany láda hazudik 
+bronz színű láda -> az arany láda hazudik 
