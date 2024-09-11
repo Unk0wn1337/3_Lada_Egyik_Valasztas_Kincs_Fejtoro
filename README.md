@@ -8,3 +8,5 @@ arany színű láda -> én rejtem a kincset
 ezüst színű láda -> nem én rejtem a kincset
 <br>
 bronz színű láda -> az arany láda hazudik 
+<br>
+ezüstben lesz a kincs
